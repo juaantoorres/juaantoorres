@@ -5,12 +5,6 @@
 
 - 🌱 Estoy aprendiendo : **Java, C**
 
-- 👯 Buscando colaborar con **Proyectos de desrrollo**
-
-- 🤝 Busco ayudar a **Programacion de aplicaciones**
-
-- 💬 Preguntame: **Nada**
-
 - 📫 Correo **juantorresmartin@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
